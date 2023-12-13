@@ -1,0 +1,50 @@
+li{
+    list-style: none;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+    border-radius: 15px;
+}
+
+.block{
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    background-color: white;
+    box-shadow: 4px 4px 7px gray;
+    padding: 18px;
+    gap: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    height: auto;
+    align-items: center;
+    display: flex;
+}
+
+#overview{
+    width: 250px;
+}
+
+#p{
+    text-align: center;
+}
+
+#title{
+    color: blue;
+}
+
+#date{
+    color: goldenrod;
+}
+h1{
+    text-align: center;
+}
+
+svg{
+    width: 250px;
+    margin-left: 42%;
+    margin-top: 13%;
+}
